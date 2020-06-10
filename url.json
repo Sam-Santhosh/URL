@@ -1,7 +1,6 @@
-{
-    "URL1": "www.google.com",
-    "URL2": "www.facebook.com",
-    "URL3": "www.amazon.com",
-  "URL4": "www.flipkart.com"
-
+"URL": {
+"www.google.com": [],
+"www.facebook.com": [],
+"www.amazon.com": [],
+"www.flipkart.com": []
 }
