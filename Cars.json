@@ -1,0 +1,153 @@
+{
+    "page": 1,
+    "total_results": 10000,
+    "total_pages": 500,
+	
+    "Key Specifications": "Hai",
+    "Price":"₹ 5.19 Lakh onwards",
+    "Mileage":"21.21 kmpl",
+    "Engine":"1197 cc",
+    "Transmission":"Manual and AMT",
+    "FuelType":"Petrol",
+    "Seating Capacity":5,
+    "variants": 7,
+    "Maruti Suzuki Swift Price": "Maruti Suzuki Swift price starts at ₹ 5.19 Lakh and goes upto ₹ 8.02 Lakh. The price of Petrol version for Swift ranges between ₹ 5.19 Lakh - ₹ 8.02 Lakh",
+    
+	"Swift LXi": [
+        {
+         "Engine & Transmission":[
+                {
+				 "Engine":"1197cc 4 Cylinders Inline 4 Valves/Cylinder DOHC",
+                 "Engine Type":"1.2 L VVT",
+                 "Fuel Type":"Petrol",
+                 "Max Power":"(bhp@rpm)82 bhp @ 6000 rpm",
+                 "Max Torque":"(Nm@rpm)113 Nm @ 4200 rpm",
+                 "Mileage (ARAI)": "21.21 kmpl",
+                 "Driving Range": "784.77 Km",
+                 "Drivetrain": "FWD",
+                 "Transmission": "Manual - 5 Gears",
+                 "Emission Standard": "BS-6",
+                 "Dimension": "3840mm * 1735mm * 1530mm",
+                 "Wheelbase": "2450 mm",
+                 "Ground Clearance": "163 mm",
+                 "Kerb Weight": "855 kg"
+				}
+                                 ],            
+	     "Capacity":[	
+                {
+				"Doors": "5 Doors",
+				"Seating Capacity": "5 Person",
+				"No of Seating Rows": "2 Rows",
+				"Bootspace": "268 litres",
+				"Fuel Tank Capacity": "37 litres",
+					"Hearding":"Suspensions Brakes & Steering",
+				"Suspension Front":"MacPherson Strut",
+				"Suspension Rear":"Torsion Beam",
+				"Front Brake Type":"Disc",
+				"Rear Brake Type":"Drum",
+				"Minimum Turning Radius":"4.8 metres",
+				"Steering Type":"Power assisted (Electric)",
+				"Wheels":"Steel Rims",
+				"Spare Wheel":"Steel",
+				"Front Tyres":"165 / 80 R14",
+				"Rear Tyres":"165 / 80 R14"
+		         }
+		             ],
+         "Safety":[
+                  {
+		"Airbags": "2 Airbags (Driver Passenger)",
+		"Child Seat Anchor Points":"Yes",
+		"Seat Belt Warning": "Yes"
+		}],
+	"Braking & Traction":[
+	               {	
+		"Anti-Lock Braking System (ABS)":"Yes",
+		"Electronic Brake-force Distribution (EBD)":"Yes",
+		"Brake Assist (BA)":"Yes"
+	                }
+	],
+	"Locks & Security":[
+	               {	
+		"Engine immobilizer": "Yes",
+		"Child Safety Lock": "Yes"
+	                }
+	],
+	"Comfort & Convenience":[
+	               {	
+		"Air Conditioner":"Yes (Manual)",
+		"Front AC": "Single Zone Common Fan Speed Control",
+		"Heater": "Yes",
+		"Cabin-Boot Access": "Yes",
+		"Parking Sensors": "Rear",
+		"Headlight off and lgnition Key Off Reminder": "Yes",
+		"Steering Adjustment": "Tilt",
+		"12V Power Outlets":1
+	                }
+	],	
+	"Seats & Upholstery":[
+	               {	
+		"Driver Seat Adjustment": "4 way manually adjustable (seat forward / back backrest tilt forward / back)",
+		"Front Passenger Seat Adjustment": "4 way manually adjustable (seat forward / back backrest tilt forward / back)",
+		"Seat Upholstery": "Fabric",
+		"Rear Passenger Seats Type": "Bench",
+		"Interiors": "Single Tone",
+		"Interior Colours": "Black",
+		"Folding Rear Seat": "Full",
+		"Head-rests": "Front & Rear"
+	                }
+	],			
+	"Storage":[
+	               {	
+				"Cup Holders": "Front Only Doors Windows  Mirrors & Wipers",
+		"Adjustable ORVM": "Internally Adjustable",
+		"Exterior Door Handles": "Black",
+		"Interior Door Handles": "Painted",
+		"Door Pockets": "Front & Rear",
+		"Boot-lid Opener": "Internal",
+		"Outside Rear View Mirrors (ORVMs)":"Black"
+	                }
+	],
+	"Exterior":[
+	               {	
+		"Roof Mounted Antenna":"Yes",
+		"Body-Coloured Bumpers":"Yes"
+	                }
+	],
+	"Lighting":[
+	               {	
+		"Headlights":"Halogen",
+		"Tail Lights":"LED'",
+		"Cabin Lamps":"Front",
+		"Headlight Height Adjuster":"Yes"
+	                }
+	],	
+	
+	"Instrumentation":[
+	               {	
+		"Instrument Cluster": "Analog - Digital",
+		"Trip Meter": "Electronic 2 Trips",
+		"Average Fuel Consumption":"Yes",
+		"Distance to Empty": "Yes",
+		"Clock": "Digital",
+		"Low Fuel Level Warning": "Yes",
+		"Door Ajar Warning": "Yes",
+		"Adjustable Cluster Brightness": "Yes",
+		"Shift Indicator": "Dynamic",
+		"Tachometer": "No",
+		"Instantaneous Consumption": "Yes"
+	                }
+	],		
+	"Manufacturer Warranty":[
+	               {	
+		"Warranty (Years)":2,
+		"Warranty (Kilometres)":40000	 
+	                }
+							]
+		}],
+        
+		
+	"Second Varient": [
+        ]
+        
+    
+}
